@@ -99,7 +99,6 @@ A game project where I served as lead developer:
 
 <p align="Flex-row justify-around">
   <img src="https://github-readme-stats.vercel.app/api?username=AdrianVi-AD&show_icons=true&theme=default&hide_border=true" alt="Adrian's GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianVi-AD&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
