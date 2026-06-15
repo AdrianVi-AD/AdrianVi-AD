@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Adrian 👋</h1>
+<h1 align="center">Hi, I'm Adrian </h1>
 
 <p align="center">
-  <b>Aspiring Back-End Developer</b> · PHP · Laravel · Lumen · ReactJS
+  <b>Back-End Developer</b> · PHP · Laravel · Lumen · ReactJS
 </p>
 
 <p align="center">
@@ -36,18 +36,15 @@ I'm an Information Technology graduate (Mobile Development track) with hands-on 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Lumen](https://img.shields.io/badge/Lumen-E74430?style=flat&logo=lumen&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 **Tools & Platforms**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)
 
 ---
 
@@ -59,7 +56,7 @@ Worked on **BillZilla**, an internal billing and reporting platform:
 
 - Built and maintained RESTful APIs using **Lumen** and **Laravel**
 - Developed backend features for Excel-based billable reports with **SharePoint** file storage
-- Participated in Agile ceremonies — sprint planning, daily standups, and retrospectives
+- Participated in Agile ceremonies sprint planning, daily standups, and retrospectives
 - Performed API testing, validation, and debugging using **Postman**
 
 ---
@@ -97,7 +94,7 @@ A game project where I served as lead developer:
 
 ## 📊 GitHub Stats
 
-<p align="Flex-row justify-around">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdrianVi-AD&show_icons=true&theme=default&hide_border=true" alt="Adrian's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianVi-AD&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
